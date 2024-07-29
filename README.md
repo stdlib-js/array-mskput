@@ -42,7 +42,7 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import mskput from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-mskput@esm/index.mjs';
+import mskput from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-mskput@v0.1.0-esm/index.mjs';
 ```
 
 #### mskput( x, mask, values\[, options] )
@@ -138,7 +138,7 @@ import filledBy from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-filled-by
 import discreteUniform from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-discrete-uniform@esm/index.mjs';
 import bernoulli from 'https://cdn.jsdelivr.net/gh/stdlib-js/random-base-bernoulli@esm/index.mjs';
 import linspace from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-base-linspace@esm/index.mjs';
-import mskput from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-mskput@esm/index.mjs';
+import mskput from 'https://cdn.jsdelivr.net/gh/stdlib-js/array-mskput@v0.1.0-esm/index.mjs';
 
 // Generate a linearly spaced array:
 var x = linspace( 0, 100, 11 );
