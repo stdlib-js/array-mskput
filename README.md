@@ -179,6 +179,14 @@ console.log( out );
 
 <section class="related">
 
+* * *
+
+## See Also
+
+-   <span class="package-name">[`@stdlib/array-place`][@stdlib/array/place]</span><span class="delimiter">: </span><span class="description">replace elements of an array with provided values according to a provided mask array.</span>
+-   <span class="package-name">[`@stdlib/array-put`][@stdlib/array/put]</span><span class="delimiter">: </span><span class="description">replace specified elements of an array with provided values.</span>
+-   <span class="package-name">[`@stdlib/array-take`][@stdlib/array/take]</span><span class="delimiter">: </span><span class="description">take elements from an array.</span>
+
 </section>
 
 <!-- /.related -->
@@ -222,8 +230,8 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [npm-image]: http://img.shields.io/npm/v/@stdlib/array-mskput.svg
 [npm-url]: https://npmjs.org/package/@stdlib/array-mskput
 
-[test-image]: https://github.com/stdlib-js/array-mskput/actions/workflows/test.yml/badge.svg?branch=v0.1.0
-[test-url]: https://github.com/stdlib-js/array-mskput/actions/workflows/test.yml?query=branch:v0.1.0
+[test-image]: https://github.com/stdlib-js/array-mskput/actions/workflows/test.yml/badge.svg?branch=main
+[test-url]: https://github.com/stdlib-js/array-mskput/actions/workflows/test.yml?query=branch:main
 
 [coverage-image]: https://img.shields.io/codecov/c/github/stdlib-js/array-mskput/main.svg
 [coverage-url]: https://codecov.io/github/stdlib-js/array-mskput?branch=main
@@ -260,6 +268,16 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 [@stdlib/array/safe-casts]: https://github.com/stdlib-js/array-safe-casts
 
 [@stdlib/array/same-kind-casts]: https://github.com/stdlib-js/array-same-kind-casts
+
+<!-- <related-links> -->
+
+[@stdlib/array/place]: https://github.com/stdlib-js/array-place
+
+[@stdlib/array/put]: https://github.com/stdlib-js/array-put
+
+[@stdlib/array/take]: https://github.com/stdlib-js/array-take
+
+<!-- </related-links> -->
 
 </section>
 
