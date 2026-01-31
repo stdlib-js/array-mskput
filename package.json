@@ -47,7 +47,7 @@
     "@stdlib/assert-has-own-property": "^0.2.2",
     "@stdlib/assert-is-collection": "^0.2.2",
     "@stdlib/assert-is-plain-object": "^0.2.2",
-    "@stdlib/string-format": "^0.2.2",
+    "@stdlib/error-tools-fmtprodmsg": "^0.2.2",
     "@stdlib/types": "^0.4.3",
     "@stdlib/error-tools-fmtprodmsg": "^0.2.2"
   },
