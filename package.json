@@ -41,7 +41,7 @@
     "@stdlib/array-base-assert-is-complex-floating-point-data-type": "^0.2.2",
     "@stdlib/array-base-assert-is-mostly-safe-data-type-cast": "^0.2.3",
     "@stdlib/array-base-assert-is-real-data-type": "^0.2.2",
-    "@stdlib/array-base-mskput": "^0.1.1",
+    "@stdlib/array-base-mskput": "^0.1.2",
     "@stdlib/array-convert": "^0.3.1",
     "@stdlib/array-dtype": "^0.3.1",
     "@stdlib/assert-has-own-property": "^0.2.3",
@@ -54,7 +54,7 @@
   "devDependencies": {
     "@stdlib/array-base-filled-by": "^0.2.3",
     "@stdlib/array-base-linspace": "^0.2.3",
-    "@stdlib/array-base-to-accessor-array": "^0.2.2",
+    "@stdlib/array-base-to-accessor-array": "^0.2.3",
     "@stdlib/array-base-zero-to": "^0.2.2",
     "@stdlib/array-base-zeros": "^0.2.3",
     "@stdlib/array-bool": "^0.1.2",
